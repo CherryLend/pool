@@ -1,0 +1,36 @@
+{
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "social": {
+            "twitter_handle": "Cherry_Lend",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me":"",
+            "server": "",
+            "company": "",
+            "vrf":""
+        },
+        "rss": ""
+    },
+    "my-pool-ids": {
+        "0": ""
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    }
+}
