@@ -3,5 +3,5 @@
   "description": "The CherryLend Stake Pool.",
   "ticker": "CHER",
   "homepage": "https://cherrylend.org",
-  "extended": "https://raw.githubusercontent.com/CherryLend/pool/main/metadata-extended.json"
+  "extended": "https://raw.githubusercontent.com/CherryLend/pool/main/md-extended.json"
 }
