@@ -1,7 +1,7 @@
 {
   "name": "CherryLend",
   "description": "The CherryLend Stake Pool.",
-  "ticker": "CHER",
+  "ticker": "CHRY",
   "homepage": "https://cherrylend.org",
   "extended": "https://raw.githubusercontent.com/CherryLend/pool/main/md-extended.json"
 }
